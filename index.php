@@ -21,7 +21,18 @@ i guess thats only wats left, will continue developing the site though,
 
 
 
+<!--
+For logic sake;
 
+i have got 
+
+available table: for planes available for booking
+reserved table: for reserves made, the number of seats which will then decrement available seats wen successfully booked,
+personal details table
+payment details table
+adult and child dependant table which will correspond with the user email wen generating a report
+successful boking table: with all the session data in one place
+-->
 
 
 
